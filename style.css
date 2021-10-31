@@ -128,7 +128,7 @@ header .container div {
 }
 .container .header__h1 h1 {
     color: white;
-    font: 3.12em roboto, sans-serif;
+    font: 2.5em roboto, sans-serif;
 }
 .container .header__h1 span {
     color: red;
@@ -191,6 +191,10 @@ header .container div {
     /* header */
     header .container {
         width: 85%;
+    }
+    .container .header__h1 h1 {
+        color: white;
+        font: 3.12em roboto, sans-serif;
     }
 }
 
