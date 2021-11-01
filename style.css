@@ -106,7 +106,7 @@ nav .menu-toggle .menu__burger {
 /* section */
 /* header */
 header {
-    background-image: url(gambargazebo.jpg);
+    /* background-image: url(gambargazebo.jpg); */
     background-size: cover;
     height: 100vh;
     background-position: center;
