@@ -110,7 +110,6 @@ header {
     background-size: cover;
     height: 100vh;
     background-position: center;
-    
 }
 header .lapisan1 {
     height: inherit;
@@ -121,8 +120,6 @@ header .container {
     flex-direction: column;
     justify-content: center;
     height: inherit;
-    width: 100%;
-    margin: auto;
 }
 header .container div {
     margin: 10px;
